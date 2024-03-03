@@ -1,0 +1,9 @@
+03-03-24 21:32:21:645934967 - RepoTest Created
+03-03-24 21:32:22:734173227 - https://github.com/Telhai-Git/LinuxFiles/archive/refs/tags/Data.tar.gz downloaded
+total 492
+drwxr-xr-x 4 root root   4096 Mar  3 21:32 .
+drwxr-xr-x 3 root root   4096 Mar  3 21:32 ..
+drwxr-xr-x 7 root root   4096 Mar  3 21:32 .git
+drwxr-xr-x 2 root root   4096 Mar  3 21:32 data
+-rw-r--r-- 1 root root 480177 Mar  3 21:32 infile.tar.gz
+-rw-r--r-- 1 root root    159 Mar  3 21:32 logtest.log
